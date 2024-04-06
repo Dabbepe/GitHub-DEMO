@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-addition()
+additionnum()
 {
 	int a,b;
 	cout<<"Enter two numbers";
@@ -10,6 +10,7 @@ addition()
 int main()
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	int a=10;
 	int b=5;
 	cout<<"Additon is: "<<a+b<<endl;
@@ -18,6 +19,11 @@ int main()
 	addition();
 	cout<<"Addition";
 >>>>>>> CPP
+=======
+	additionnum();
+	cout<<"Addition";
+	cout<<"OK";
+>>>>>>> CPPMerge
 	return 0;
 	
 }
