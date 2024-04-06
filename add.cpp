@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-addition()
+additionnum()
 {
 	int a,b;
 	cout<<"Enter two numbers";
@@ -9,8 +9,9 @@ addition()
 }
 int main()
 {
-	addition();
+	additionnum();
 	cout<<"Addition";
+	cout<<"OK";
 	return 0;
 	
 }
